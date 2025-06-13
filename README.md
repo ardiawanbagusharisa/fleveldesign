@@ -3,6 +3,9 @@ A repo for a level design blockout with UE 5.6.
 
 First of all, I apologize because I use Unreal 5.6 instead of 5.5. The reason is I am currently doing research research and it takes lots of my memory. I am willing to follow the correct procedure if I get accepted by your company.  
 
+# How to use? 
+Open using Unreal 5.6, open Level1 at Content > Blockoutlevel > Level1. There is a topdown character controller. Use left click to move. No other actions are available. 
+
 # My steps to create the level blockout 
 1. Brainstrom on pinterest and artstation. 
 2. Create a rough shape grammar. 
